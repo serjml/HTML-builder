@@ -27,7 +27,5 @@ fs.readdir(
         );
       }
     });
-
-    console.log(data);
   },
 );
